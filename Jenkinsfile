@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh'docker build client-proxy .'
+                sh'docker pull hello-world'
             }      
         }
         
