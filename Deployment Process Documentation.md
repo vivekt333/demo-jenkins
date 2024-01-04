@@ -14,7 +14,7 @@ Repositories:
 
 •   main
 
-- developer
+•   developer
 
 •   uat
 
