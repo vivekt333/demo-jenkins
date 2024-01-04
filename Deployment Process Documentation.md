@@ -12,11 +12,11 @@ Repositories:
 - Location: - rebook-bmpd/
 - Branches:
 
-•   main
+`  `•   main
 
-•   developer
+`  `•   developer
 
-•   uat
+`  `•   uat
 
 Developer push to developer branch which triggers the dev pipelines in Jenkins.
 
